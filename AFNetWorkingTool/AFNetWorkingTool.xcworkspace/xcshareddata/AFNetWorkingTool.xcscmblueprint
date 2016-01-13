@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "561634AA24D72452F39C5F6994C0F37FF7D2B7AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++6069" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++6069" : 0,
+    "561634AA24D72452F39C5F6994C0F37FF7D2B7AE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB42BFF5-5A0B-43E1-8808-28CA19B6211C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d1bd883b-ac27-46ce-ae37-3c61df1bee63++6069" : "AFNetWorking\/AFNetWorking\/SDWebImage\/",
+    "561634AA24D72452F39C5F6994C0F37FF7D2B7AE" : "AFNetWorkingTool\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AFNetWorkingTool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AFNetWorkingTool\/AFNetWorkingTool.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/markdashi\/AFNetWorkingTool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "561634AA24D72452F39C5F6994C0F37FF7D2B7AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/t.svnchina.com\/svn\/tuzhu",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d1bd883b-ac27-46ce-ae37-3c61df1bee63++6069"
+    }
+  ]
+}
